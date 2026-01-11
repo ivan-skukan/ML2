@@ -1,1 +1,3 @@
-Machine Learning 2 homework
+#ML2 lab work
+
+Repository for Machine Learning 2 course homework
